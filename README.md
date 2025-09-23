@@ -1,3 +1,4 @@
 # project-demo
-This is my first repository
-Author- Pujarani Sasmal
+This is my first repository.
+<br>
+<b>Author- Pujarani Sasmal</b>
